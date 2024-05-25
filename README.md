@@ -2,7 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Marcos👋;+Olá!+eu+sou+o+Marcos👋;" />
 </h1>
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosjohnny&show_icons=true&theme=transparent)
+<br>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcosjohnny&show_icons=true&theme=transparent" />
+    </a>
+</div>
+
+<br>
+<br>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,javascript,nextjs" /><br>
@@ -10,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker" /><br>
 </div>
 
-  ##
+<br>
 
 <div align="center">
   <a href="https://wa.me/5569993399608" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -19,6 +28,8 @@
   <a href="https://t.me/marcosjohnny" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcosjohnny" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:marcosjohnny.jipa@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosjohnny/marcosjohnny/output/github-contribution-grid-snake-dark.svg">
