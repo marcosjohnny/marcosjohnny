@@ -1,9 +1,7 @@
 ## Olá! eu sou o Marcos.
 
 <div align="center">
-  <a href="https://github.com/marcosjohnny">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosjohnny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjohnny&layout=compact&langs_count=7&theme=tokyonight"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -23,6 +21,10 @@
   <a href="https://t.me/marcosjohnny" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcosjohnny" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:marcosjohnny.jipa@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/marcosjohnny/marcosjohnny/blob/output/github-contribution-grid-snake.svg)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
