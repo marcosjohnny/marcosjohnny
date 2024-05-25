@@ -2,11 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Marcos👋;+Olá!+eu+sou+o+Marcos👋;" />
 </h1>
 
-##
-
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosjohnny&show_icons=true&theme=transparent)
-
-##
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,javascript,nextjs" /><br>
